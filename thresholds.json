@@ -1,0 +1,16 @@
+{
+  "blur": 30,
+  "occlusion": 50,
+  "ear": 20,
+  "gaze": 8,
+  "yaw": 15,
+  "pitch": 15,
+  "roll": 12,
+  "mouth": 30,
+  "smile": 43,
+  "frown": 80,
+  "eyebrow": 16,
+  "bg": 60,
+  "dist_min": 12,
+  "dist_max": 22
+}
